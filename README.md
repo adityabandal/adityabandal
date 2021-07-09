@@ -15,13 +15,13 @@
 
 - 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1Pj_JTGW3VvAx9FNxONJLVzyDf72iNYTj/view?usp=sharing)
 
-- ⚡ Fun fact **Things I Hate**
-<ol>
-<li>Repetition</li>
-<li>Repetition</li>
-<li>Irony</li>
-<li>List</li>
-</ol>
+- ⚡ Fun fact - **Things I hate**
+	1. Repetition
+	2. Repetition
+	3. Irony
+	4. List
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
