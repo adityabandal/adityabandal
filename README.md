@@ -15,7 +15,13 @@
 
 - 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1Pj_JTGW3VvAx9FNxONJLVzyDf72iNYTj/view?usp=sharing)
 
-- ⚡ Fun fact **Tea >>> Coffee**
+- ⚡ Fun fact **Things I Hate**
+<ol>
+<li>Repetition</li>
+<li>Repetition</li>
+<li>Irony</li>
+<li>List</li>
+</ol>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
