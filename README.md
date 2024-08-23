@@ -2,10 +2,7 @@
 
 
 Contact:
-✉️ abandal2@illinois.edu
-🔗 LinkedIn
-🌐 GitHub
-📞 +1 (217) 721-2960
+✉️ abandal2@illinois.edu | 🔗 LinkedIn - https://www.linkedin.com/in/aditya-bandal/ | 📞 +1 (217) 721-2960
 
 I'm a software engineer with a strong background in developing scalable solutions and working with cloud technologies. I hold a Master’s in Computer Science from the University of Illinois Urbana-Champaign and a Bachelor’s in Computer Science from VNIT Nagpur. I’ve gained hands-on experience through roles at Amazon and AWS, focusing on performance optimization and innovative solutions.
 
