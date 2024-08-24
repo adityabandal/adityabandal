@@ -28,7 +28,7 @@
 </br>
 </br>
   
-[![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=adityabandal&show_icons=true&count_private=true&theme=blue)](https://github.com/ritwik-deshpande/github-readme-stats)
+[![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=adityabandal&show_icons=true&count_private=true&theme=blue)](https://github.com/adityabandal/github-readme-stats)
 
 
 
