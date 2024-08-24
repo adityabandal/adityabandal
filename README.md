@@ -10,7 +10,7 @@
 📖 Bachelor of Technolofy in Computer Science and Engineering at Visvesvaraya National Institute of Technology, Nagpur. </br>
 
 ### Skills
-<details>
+
 <summary>Languages and Frameworks I have worked on </summary>
 
 | Technology | Details |
@@ -20,7 +20,7 @@
 |     Cloud Technologies | Docker, Kubernetes, AWS, GCP       |
 |     Databases | MySQL, DynamoDB, MongoDB      |
 
-</details>
+
 🌱 I’m currently learning courses focused on Systems, ML and Cloud at UIUC. </br>
 👯 I’m looking to collaborate on Software Development, Cloud (AWS) and Systems projects </br>
 📫 How to reach me: Email: abandal2@illinois.edu  Phone: +1 217-721-2960 </br>
