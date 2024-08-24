@@ -8,7 +8,7 @@ Contact:
 
 📞 +1 (217) 721-2960
 
-I'm a software engineer with a strong background in developing scalable solutions and working with cloud technologies. I am pursuing a Master’s in Computer Science from the University of Illinois Urbana-Champaign focussed on systems and cloud. I hold a Bachelor’s in Computer Science from VNIT Nagpur. I’ve gained hands-on experience through roles at Amazon and AWS, focusing on performance optimization and innovative solutions.
+I'm a software engineer with a strong background in developing scalable solutions and working with cloud technologies. I am pursuing a Master’s in Computer Science from the University of Illinois Urbana-Champaign focussed on systems and cloud. I hold a Bachelor’s in Computer Science from VNIT Nagpur. I’ve gained hands-on experience working over two years at Amazon and AWS, focusing on building microservices, performance optimization and innovative solutions.
 
 💼 Work Experience
 - AWS (May 2024 - Aug 2024): Developed call recording features and real-time transcription for Amazon Connect, a cloud based contact center.
