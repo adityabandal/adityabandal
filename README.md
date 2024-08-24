@@ -7,7 +7,7 @@
 
 📖 Master's in Computer Science at the University of Illinois Urbana-Champaign. </br>
 ☁ Summer Intern at IIT Bombay. May'2019 - Jul'2019 </br>
-📖 Bachelor of Technolofy in Computer Science and Engineering at Visvesvaraya National Institute of Technology, Nagpur. </br>
+📖 Bachelor of Technology in Computer Science and Engineering at Visvesvaraya National Institute of Technology, Nagpur. </br>
 
 ### Skills
 
